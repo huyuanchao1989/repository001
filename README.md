@@ -1,2 +1,2 @@
 # repository001
-The first creating repository and user it .
+Create a repository for the first time and use it for study.
