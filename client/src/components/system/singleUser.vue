@@ -13,7 +13,7 @@
                         fit='contain'
                         src=" "
                     >
-                        <!-- <img src="http://120.77.87.225/avatar/109.jpg" @click="editAvatar" /> -->
+                        <img src="http://120.77.87.225/avatar/109.jpg" @click="editAvatar" />
                     </el-avatar>
                 </el-col>
                 <!-- col2 -->
