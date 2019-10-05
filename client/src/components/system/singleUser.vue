@@ -11,7 +11,7 @@
                     <el-avatar
                         :size="150"
                         fit='contain'
-                        src="https://cdn.gfile.xyz/block/76/762f9529fae2f9175f665b8bb841b729.jpg"
+                        src=" "
                     >
                         <!-- <img src="http://120.77.87.225/avatar/109.jpg" @click="editAvatar" /> -->
                     </el-avatar>
