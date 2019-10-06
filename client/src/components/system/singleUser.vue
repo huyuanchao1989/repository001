@@ -7,13 +7,13 @@
             <el-row id="row1">
                 <!-- col1 头像  -->
                 <el-col :span="6">
-                    <!-- <el-avatar :size="150" src="http://120.77.87.225/avatar/109.jpg"> -->
+                    <el-avatar :size="150" src="http://120.77.87.225/avatar/109.jpg">
                     <el-avatar
                         :size="150"
                         fit='contain'
                         src=" "
                     >
-                        <img src="http://120.77.87.225/avatar/109.jpg" @click="editAvatar" />
+                        <!-- <img src="http://120.77.87.225/avatar/109.jpg" @click="editAvatar" /> -->
                     </el-avatar>
                 </el-col>
                 <!-- col2 -->
